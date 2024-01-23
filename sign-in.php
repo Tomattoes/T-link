@@ -175,6 +175,7 @@
                 <input type="password" class="form-control" id="floatingPassword" placeholder="Password" name="password">
                 <label for="floatingPassword">Password</label>
             </div>
+            <p class="mt-2 mb-2 text-body-secondary"><a href="reset_password.php">Forgot Password?</a></p>
 
             <button class="btn btn-primary w-100 py-2" type="submit">Sign in</button>
             <p class="mt-5 mb-3 text-body-secondary">Don't have any account? <a href="sign-up.php">Sign up</a></p>
